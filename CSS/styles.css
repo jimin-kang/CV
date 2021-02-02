@@ -1,6 +1,9 @@
 body{
   background-color: #f8f9fa!important;
 }
+section{
+  padding-top: 30px;
+}
 .background{
   padding-top:56px;
   height: 400px;
@@ -40,7 +43,7 @@ body{
   text-align: center;
   line-height: 1.5;
   background-color: #f8f9fa!important;
-  padding: 40px 20%;
+  padding: 40px 30%;
 }
 hr{
   border: none;
